@@ -12,6 +12,7 @@ one.irradia.datepicker
 
 ## Features
 
+* A minimalist three-part date picker with a configurable range.
 * ISC license
 
 ## Building
