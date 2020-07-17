@@ -1,0 +1,5 @@
+dependencies {
+  api libraries.jodaTime
+
+  implementation libraries.kotlinStdlib
+}
