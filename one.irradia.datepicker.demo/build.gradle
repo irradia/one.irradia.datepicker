@@ -1,0 +1,8 @@
+dependencies {
+  implementation project(":one.irradia.datepicker.views")
+
+  implementation libraries.kotlinStdlib
+  implementation libraries.androidXActivity
+  implementation libraries.androidXAppCompat
+  implementation libraries.androidXConstraintLayout
+}

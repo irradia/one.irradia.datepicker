@@ -1,0 +1,8 @@
+dependencies {
+  implementation project(":one.irradia.datepicker.views")
+  implementation libraries.kotlinStdlib
+  implementation libraries.mockitoAndroid
+
+  testImplementation libraries.logbackClassic
+  testImplementation libraries.junit
+}
