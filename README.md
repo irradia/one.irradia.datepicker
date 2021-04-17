@@ -17,7 +17,7 @@ one.irradia.datepicker
 Install the Android SDK.
 
 ```
-$ ./gradlew clean assemble test
+$ ./gradlew clean assemble check
 ```
 
 If the above fails, it's a bug. Report it!
