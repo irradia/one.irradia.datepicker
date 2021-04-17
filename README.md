@@ -1,6 +1,7 @@
 one.irradia.datepicker
 ===
 
+[![Build Status](https://img.shields.io/github/workflow/status/irradia/one.irradia.datepicker/Main)](https://github.com/irradia/one.irradia.datepicker/actions?query=workflow%3Amain)
 [![Maven Central](https://img.shields.io/maven-central/v/one.irradia.datepicker/one.irradia.datepicker.views.svg?style=flat-square)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22one.irradia.datepicker%22)
 [![Codacy Badge](https://img.shields.io/codacy/grade/d0b7e91a88f640049bcaf706ae088d63.svg?style=flat-square)](https://www.codacy.com/app/github_79/one.irradia.datepicker?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=irradia/one.irradia.datepicker&amp;utm_campaign=Badge_Grade)
 [![Gitter](https://badges.gitter.im/irradia-org/community.svg)](https://gitter.im/irradia-org/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
