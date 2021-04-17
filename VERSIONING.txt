@@ -12,3 +12,4 @@
 #
 
 one.irradia.datepicker.demo
+one.irradia.datepicker.tests
